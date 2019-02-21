@@ -13,13 +13,9 @@ A10:2017-Insufficient Logging&Monitoring
 
 
 
-# A1:2017-Injection
+# A1:2017-Injection-(注入攻擊)
 ```
-漏洞說明:
-
-測試工具:
-
-測試案例:
+Injection flaws, such as SQL, NoSQL, OS, and LDAP injection, occur when untrusted data is sent to an interpreter as part of a command or query. The attacker's hostile data can trick the interpreter into executing unintended commands or accessing data without proper authorization.
 
 ```
 # A2:2017-Broken Authentication
